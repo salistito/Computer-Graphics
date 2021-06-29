@@ -1,0 +1,12 @@
+Codigo del commit: 706504c3dfaf6123f4fa4e1bed93406e2bac6f33
+
+Observación: hay un bug que no logré solucionar y creo que tiene que ver con 
+que se laguea el tiempo de glfw, si no no me explico porque pasa, pero hay veces 
+que mi nave al recibir un disparo pierde más de un punto de vida,
+pero hay otras en que pierde muchos puntos de solo un disparo, y eso que no se 
+hace ninguna modificación en el código :c
+
+En el video se aprecia como me llega un disparo y pierdo solo un punto de hp
+que es lo que deberia pasar normalmente  
+(en la consola se printea la vida que me queda y se printea un 2 justo cuando 
+me llega)
