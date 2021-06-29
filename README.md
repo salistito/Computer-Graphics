@@ -9,9 +9,9 @@
 
 - [About](#about)
 - [Requirements and Quick Start](#requirements-and-quick-start)
-- [Proyect 1b - Space Wars](proyect-1b---space-wars)
-- [Proyect 2c - Bird Migration Simulator](proyect-2c---bird-migration-simulator)
-- [Proyect 3a - Aquarium Problem and Visualization (PDE's)](proyect-3a---aquarium-problem-and-visualization-(PDE's))
+- [Proyect 1b - Space Wars](#proyect-1b---space-wars)
+- [Proyect 2c - Bird Migration Simulator](#proyect-2c---bird-migration-simulator)
+- [Proyect 3a - Aquarium Problem and Visualization (PDE's)](#proyect-3a---aquarium-problem-and-visualization-(PDE's))
 - [Credits](#credits)
 - [Copyright and License](#copyright-and-license)
 
