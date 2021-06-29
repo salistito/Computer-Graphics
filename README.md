@@ -9,9 +9,9 @@
 
 - [About](#about)
 - [Requirements and Quick Start](#requirements-and-quick-start)
-- [Proyect 1b - Space Wars](proyect-1b-space-wars)
-- [Proyect 2c - Bird Migration Simulator](proyect-2c-bird-migration-simulator)
-- [Proyect 3a - Aquarium Problem and Visualization (PDE's)](proyect-3a-aquarium-problem-and-visualitation)
+- [Proyect 1b - Space Wars](proyect-1b---space-wars)
+- [Proyect 2c - Bird Migration Simulator](proyect-2c---bird-migration-simulator)
+- [Proyect 3a - Aquarium Problem and Visualization (PDE's)](proyect-3a---aquarium-problem-and-visualization-(PDE's))
 - [Credits](#credits)
 - [Copyright and License](#copyright-and-license)
 
@@ -40,9 +40,9 @@ These 3 works cover the most important topics and are made with Python using Ope
 ## Proyect 1b - Space Wars
 
 <div>
-<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea1b_SpaceWars/Preview/combat_1.png" width="300" height="250"/>
-<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea1b_SpaceWars/Preview/combat_2.png" width="300" height="250"/>
-<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea1b_SpaceWars/Preview/youWin.png" width="300" height="250"/>
+<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea1b_SpaceWars/Preview/combat_1.png" width="275" height="250"/>
+<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea1b_SpaceWars/Preview/combat_2.png" width="275" height="250"/>
+<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea1b_SpaceWars/Preview/youWin.png" width="275" height="250"/>
 </div>
 
 A basic 2D game inspired on [Space Invaders](https://es.wikipedia.org/wiki/Space_Invaders).
@@ -56,9 +56,9 @@ To run the game it is necessary to run the space-war.py file specifying how many
 ## Proyect 2c - Bird Migration Simulator
 
 <div>
-<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea2c_BirdHerd/Preview/bird.png" width="300" height="250"/>
-<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea2c_BirdHerd/Preview/birdHerd_Back.png" width="300" height="250"/>
-<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea2c_BirdHerd/Preview/birdHerd_Front.png" width="300" height="250"/>
+<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea2c_BirdHerd/Preview/bird.png" width="275" height="250"/>
+<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea2c_BirdHerd/Preview/birdHerd_back.png" width="275" height="250"/>
+<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea2c_BirdHerd/Preview/birdHerd_Front.png" width="275" height="250"/>
 </div>
 
 A basic bird migration simulator, It uses an articulated model to animate the flight of the birds along a curvilinear trajectory specified.
@@ -71,9 +71,9 @@ To run the simulator it's necessary to run the bird-herd.py file specifying the 
 ## Proyect 3a - Aquarium Problem and Visualization (PDE's)
 
 <div>
-<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea3a_EDPs/Preview/solution_2.png" width="300" height="250"/>
-<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea3a_EDPs/Preview/fish.png" width="300" height="250"/>
-<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea3a_EDPs/Preview/aquarium.png" width="300" height="250"/>
+<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea3a_EDPs/Preview/solution_2.png" width="275" height="250"/>
+<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea3a_EDPs/Preview/fish.png" width="275" height="250"/>
+<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea3a_EDPs/Preview/aquarium.png" width="275" height="250"/>
 </div>
 
 The goal of this work is to create an application that solves the heat equation for the water contained in an aquarium using Finite Differences for PDE's.
