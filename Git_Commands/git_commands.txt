@@ -1,0 +1,76 @@
+Espacio de trabajo para tareas
+En este repositorio usted deberá crear una carpeta por cada tarea realizada. Cada carpeta de tarea
+debe utilizar un nombre correcto según la opción que escoja. A modo de ejemplo, puede al finalizar el
+semestre puede tener las carpetas: tarea1a, tarea2c, tarea3b y tarea4.
+Cada carpeta de tarea debe ser absolutamente independiente. Incluya todo el código y archivos que
+necesite dentro de ella, incluyendo material que haya sido entregado en cátedras o clases auxiliares y
+que esté utilizando.
+
+Comandos:
+
+git add archivo.py -> añade el archivo
+git add --all -> añade todos los que no se han subido 
+
+git commit -m "comentario sobre el archivo que agregue" -> crea un comentario
+
+git push origin master -> sube finalmente el archivo 
+
+4. Se le pedirá su contraseña cada vez que ejecute este comando.
+5. Si por casualidad pierde su repositorio, o si desea trabajar desde otro computador o directorio,
+puede simplemente clonar su repositorio nuevamente con el paso 1.
+6. Siempre puede verificar el contenido del repositorio remoto en su sesión online de GitLab. Esto
+es lo mismo que puede ver el equipo docente.
+
+
+
+Comandos Git “Avanzados”
+Los siguientes comandos pueden serle de ayuda, pero no son necesarios para la tarea.
+
+1. Si trabaja desde dos computadores o carpetas, producirá desfase entre los cambios. Puede
+actualizar/sincronizar los archivos en su carpeta con pull.
+
+git pull origin master
+
+Si modifica ambas copias locales, sin sincronización, producirá diferencias que deberán ser
+resueltas caso a caso. Por simplicidad evite esta situación hasta que domine bien el manejo de
+este escenario con git.
+
+2. Puede conocer el historial de cambios con el comando log. Se especificaran los commits con sus
+mensajes y número de commit asociado.
+
+git log
+
+3. Si quiere volver a algún cambio anterior, puede utilizar el comando git reset. Existen las
+opciones hard y soft. Con hard perderá los cambios posteriores al punto de sincronización,
+mientras que con soft los cambios posteriores quedarán como cambios locales para su revisión
+
+git reset –soft 0ad5a7a6
+
+4. Si solo desea obtener una vista de su repositorio en algún cambio anterior, sin modificar nada,
+puede utilizar el comando checkout
+
+git checkout -b old1 0ad5a7a6
+
+Este comando crea una rama (branch) de nombre old1, que puede seguir trabajando de
+manera paralela. Para volver al último estado de su repositorio, ejecute
+
+git checkout master
+
+“master” es el nombre de su rama principal. Su intuición es correcta, puede trabajar en muchas
+ramas. Cada rama tendrá sus propios cambios. El comando checkout lo llevará a la rama en la
+que desee trabajar. Puede mezclar ramas con el comando merge, pero dejaremos eso para otra
+ocasión.
+
+Para enviar otra rama al servidor remoto, utilice
+
+git push -u origin branch_name
+
+
+Modo de trabajo
+En resumen, cada vez que trabaje en su tarea:
+1. Agregue sus cambios con: git add --all
+2. Agréguelos al paquete de cambios actuales con: git commit -m “Descripcion”
+3. Envíelos a su repositorio remoto con: git push origin master
+4. Siempre puede verificar el contenido del repositorio remoto en su sesión online de GitLab.
+De esta forma, tendrá su trabajo siempre respaldado.
+ 
