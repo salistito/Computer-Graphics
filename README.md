@@ -9,9 +9,9 @@
 
 - [About](#about)
 - [Requirements and Quick Start](#requirements-and-quick-start)
-- [Proyect 1b - Space Wars](#proyect-1b-space-wars)
-- [Proyect 2c - Bird Migration Simulator](#proyect-2c-bird-migration-simulator)
-- [Proyect 3a - Aquarium Problem and Visualization (PDE's)](#proyect-3a-aquarium-problem-and-visualization-(PDE's))
+- [Proyect 1b - Space Wars](#proyect-1b---space-wars)
+- [Proyect 2c - Bird Migration Simulator](#proyect-2c-bird---migration-simulator)
+- [Proyect 3a - Aquarium Problem and Visualization (PDE's)](#proyect-3a---aquarium-problem-and-visualization-(PDE's))
 - [Credits](#credits)
 - [Copyright and License](#copyright-and-license)
 
@@ -34,8 +34,9 @@ These 3 works cover the most important topics and are made with Python using Ope
 
 - [Download and install python 3.7 or higher ](https://www.python.org/downloads/)
 - Install the necessary modules: `pip install numpy scipy matplotlib pyopengl glfw ipython jupyter`
-- Clone the repository: `https://github.com/salistito/Computer-Graphics.git`
+- Download the repository
 - Enjoy :)
+<!-- Clone the repository: `https://github.com/salistito/Computer-Graphics.git` -->
 
 ## Proyect 1b - Space Wars
 
@@ -57,7 +58,7 @@ To run the game it is necessary to run the space-war.py file specifying how many
 
 <div>
 <img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea2c_BirdHerd/Preview/bird.png" width="275" height="250"/>
-<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea2c_BirdHerd/Preview/birdHerd_Back.png" width="275" height="250"/>
+<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea2c_BirdHerd/Preview/birdHerd_back.png" width="275" height="250"/>
 <img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea2c_BirdHerd/Preview/birdHerd_Front.png" width="275" height="250"/>
 </div>
 
