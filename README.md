@@ -9,16 +9,16 @@
 
 - [About](#about)
 - [Requirements and Quick Start](#requirements-and-quick-start)
-- [Proyect 1b - Space Wars](#proyect-1b---space-wars)
-- [Proyect 2c - Bird Migration Simulator](#proyect-2c---bird-migration-simulator)
-- [Proyect 3a - Aquarium Problem and Visualization (PDE's)](#proyect-3a---aquarium-problem-and-visualization-(PDE's))
+- [Proyect 1b - Space Wars](#proyect-1b-space-wars)
+- [Proyect 2c - Bird Migration Simulator](#proyect-2c-bird-migration-simulator)
+- [Proyect 3a - Aquarium Problem and Visualization (PDE's)](#proyect-3a-aquarium-problem-and-visualization-(PDE's))
 - [Credits](#credits)
 - [Copyright and License](#copyright-and-license)
 
 ## About
 
 This repository contains the three mains projects from CC3501 - Modeling and Computer Graphics for Engineers <br>
-(5th semester of Computer Science Engineering at FCFM, University of Chile), 2020 fall semester edition (2020-1). 
+(5th semester of Computer Science Engineering at FCFM, University of Chile) 2020 fall semester edition (2020-1). 
 
 This course has a wide range of topics, such as:
 - Algorithms and Techniques for Computer Graphics 
@@ -57,7 +57,7 @@ To run the game it is necessary to run the space-war.py file specifying how many
 
 <div>
 <img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea2c_BirdHerd/Preview/bird.png" width="275" height="250"/>
-<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea2c_BirdHerd/Preview/birdHerd_back.png" width="275" height="250"/>
+<img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea2c_BirdHerd/Preview/birdHerd_Back.png" width="275" height="250"/>
 <img src="https://github.com/salistito/Computer-Graphics/blob/main/Tarea2c_BirdHerd/Preview/birdHerd_Front.png" width="275" height="250"/>
 </div>
 
