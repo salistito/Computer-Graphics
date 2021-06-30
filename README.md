@@ -56,7 +56,8 @@ This work was made with python using:
 - some basic shaders and transformations with Open GL.
 
 To run the game it's necessary to run the space-war.py file, specifying how many enemies there will be, for example:
-- `python space-wars.py 10` (runs the game with 10 enemies)
+- `python space-wars.py 10` <br>
+(runs the game with 10 enemies)
 
 <h2 id="birdHerd">Proyect 2c - Bird Migration Simulator</h2>
 
@@ -76,7 +77,8 @@ This work was made with python using:
 - some basic shaders and transformations with Open GL.
 
 To run the simulator it's necessary to run the bird-herd.py file, specifying the migration trajectory on a csv file and how many birds there will be, for example:
-- `python bird-herd.py csvFiles\sinusoidal.csv 5` (runs the simulator with a sinusoidal trajectory and 5 birds) 
+- `python bird-herd.py csvFiles\sinusoidal.csv 5` <br>
+(runs the simulator with a sinusoidal trajectory and 5 birds) 
 
 <h2 id="aquarium">Proyect 3a - Aquarium Problem and Visualization (PDE's)</h2>
 
@@ -91,11 +93,13 @@ Different types of fish will prefer different sectors of the aquarium, so it is 
 
 To run the solver it's necessary to run the aquarium_solver.py file, specifying the problem setup on a json file <br>
 for example:
-- `python aquarium_solver.py ProblemJSONs\problem_setup.json` (runs the solver with the problem setup specified on the json file)
+- `python aquarium_solver.py ProblemJSONs\problem_setup.json` <br>
+(runs the solver with the problem setup specified on the json file)
 
 To run the aquarium simulator it's necessary to run the aquarium_view.py file specifying the view setup on a json file <br>
 for example:
-- `python aquarium_view.py ViewJSONs\view_setup.json` (runs the aquarium simulator with the view setup specified on the json file)
+- `python aquarium_view.py ViewJSONs\view_setup.json` <br>
+(runs the aquarium simulator with the view setup specified on the json file)
 
 <h2 id="credits">Credits</h2>
 
